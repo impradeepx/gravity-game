@@ -1,0 +1,11 @@
+canvas {
+    border:5px solid #191818;
+    background-color: #a9a1df; 
+}
+p{color: rgb(243, 249, 248); background-color: rgb(21, 19, 19);
+ font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+ border: 3px solid rgb(241, 102, 10);}
+button{ padding: 10px; background-color: rgb(79, 79, 114);
+color: azure; border: 3px solid rgba(18, 22, 18, 0.56);}
